@@ -1,0 +1,32 @@
+# --- PyCharm / IntelliJ ---
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environments ---
+venv/
+.venv/
+ENV/
+env/
+*.egg-info/
+
+# --- Jupyter Notebook Checkpoints ---
+.ipynb_checkpoints/
+
+# --- Distribution / packaging ---
+build/
+dist/
+*.egg
+.eggs/
+
+# --- Logs ---
+*.log
+
+# --- macOS system files ---
+.DS_Store
